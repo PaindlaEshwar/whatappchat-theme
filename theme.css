@@ -1,0 +1,54 @@
+.whatapp{
+    background-image: url("./image/chatbackground.png");
+    height: 100vh;
+    
+}
+.heading{
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(53, 60, 64);
+    padding: 5px;
+}
+.pa1{
+    color: #fff;
+    background-color: rgb(113, 193, 136);
+    height: 40px;
+    margin: 20px;
+    padding: 6px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius:8px ;
+    border-top-right-radius: 8px;
+}
+.t1{
+    font-size: 30px;
+    text-align: end;
+    margin: 8PX;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.t11{
+    font-size: 30px;
+    text-align: start;
+    margin: 8PX;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.pa11{
+    color: #fff;
+    background-color: rgb(113, 193, 136);
+    height: 40px;
+    margin: 18px;
+    padding: 6px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+.h1{
+    margin:8px ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: end;
+}
+.h2{
+    margin:8px ;
+    text-align: start;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
